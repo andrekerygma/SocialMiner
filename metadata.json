@@ -1,0 +1,6 @@
+{
+  "name": "SocialMiner",
+  "description": "Ferramenta para extração e coleta de dados do Instagram em ambiente local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
